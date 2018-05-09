@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14133" systemVersion="17E199" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Word" representedClassName="Word" syncable="YES" codeGenerationType="class">
+        <attribute name="comment" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="compound" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="definition" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="definitionComm" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="examples" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="form" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="idioms" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="inflection" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pos" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pronunciation" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="usage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="valency" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Word" positionX="-63" positionY="-18" width="128" height="225"/>
+    </elements>
+</model>
